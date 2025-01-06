@@ -41,8 +41,8 @@
   <a href="https://github.com/oEmanuelFirmino/interferencia_de_ondas">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=interferencia_de_ondas&theme=dracula" />
   </a>
-  <a href="https://github.com/EmanuelFirmino/project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=project-2&theme=dracula" />
+  <a href="https://github.com/oEmanuelFirmino/periodicTable">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=periodicTable&theme=dracula" />
   </a>
 </div>
 
