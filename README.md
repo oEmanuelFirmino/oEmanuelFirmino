@@ -39,10 +39,10 @@
 ###  🏆 Featured Projects & Achievements
 <div align="center">
   <a href="https://github.com/oEmanuelFirmino/interferencia_de_ondas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelFirmino&repo=project-1&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=project-1&theme=dracula" />
   </a>
   <a href="https://github.com/EmanuelFirmino/project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelFirmino&repo=project-2&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=project-2&theme=dracula" />
   </a>
 </div>
 
