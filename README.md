@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello World! I'm Emanuel Firmino 👋</h1>
-  <h3>Fullstack Developer from Brazil</h3>
+  <h3>A Fullstack Developer from Brazil 🇧🇷</h3>
 </div>
 
 ---
