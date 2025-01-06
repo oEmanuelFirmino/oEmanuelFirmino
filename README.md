@@ -36,6 +36,16 @@
 - 📊 Data visualization with Streamlit
 - 🚀 Always learning and exploring new technologies
 
+###  🏆 Featured Projects & Achievements
+<div align="center">
+  <a href="https://github.com/EmanuelFirmino/project-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelFirmino&repo=project-1&theme=dracula" />
+  </a>
+  <a href="https://github.com/EmanuelFirmino/project-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelFirmino&repo=project-2&theme=dracula" />
+  </a>
+</div>
+
 ### 📈 GitHub Activity Graph
 [![Emanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oEmanuelFirmino&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
