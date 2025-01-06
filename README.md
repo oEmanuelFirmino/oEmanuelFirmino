@@ -8,8 +8,8 @@
 ### 📊 Dashboard
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelFirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelFirmino&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oEmanuelFirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEmanuelFirmino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### 💻 Tech Stack
@@ -37,11 +37,11 @@
 - 🚀 Always learning and exploring new technologies
 
 ### 📈 GitHub Activity Graph
-[![Emanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmanuelFirmino&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Emanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oEmanuelFirmino&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🌐 Connect with me
 <div>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:firmino.emanuel2006@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
@@ -52,5 +52,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmanuelFirmino&color=green" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=oEmanuelFirmino&color=green" alt="Profile views"/>
 </div>
