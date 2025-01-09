@@ -44,6 +44,9 @@
   <a href="https://github.com/oEmanuelFirmino/periodicTable">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=periodicTable&theme=dracula" />
   </a>
+  <a href="https://github.com/oEmanuelFirmino/image_classifier">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=image_classifier&theme=dracula" />
+  </a>
 </div>
 
 ### 📈 GitHub Activity Graph
