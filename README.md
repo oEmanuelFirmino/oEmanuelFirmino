@@ -39,8 +39,10 @@
 ###  🏆 Featured Projects & Achievements
 <div align="center">
   <div>
-    <a href="https://github.com/oEmanuelFirmino/interferencia_de_ondas">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=interferencia_de_ondas&theme=dracula" />
+    <a href="https://github.com/oEmanuelFirmino/
+Dynamic_Wave_Interference_Simulator">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=
+Dynamic_Wave_Interference_Simulator&theme=dracula" />
     </a>
     <a href="https://github.com/oEmanuelFirmino/periodicTable">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=periodicTable&theme=dracula" />
