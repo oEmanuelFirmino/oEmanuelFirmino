@@ -39,8 +39,7 @@
 ###  🏆 Featured Projects & Achievements
 <div align="center">
   <div>
-    <a href="https://github.com/oEmanuelFirmino/
-Dynamic_Wave_Interference_Simulator">
+    <a href="https://github.com/oEmanuelFirmino/Dynamic_Wave_Interference_Simulator">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=
 Dynamic_Wave_Interference_Simulator&theme=dracula" />
     </a>
