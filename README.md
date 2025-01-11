@@ -38,15 +38,22 @@
 
 ###  🏆 Featured Projects & Achievements
 <div align="center">
-  <a href="https://github.com/oEmanuelFirmino/interferencia_de_ondas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=interferencia_de_ondas&theme=dracula" />
-  </a>
-  <a href="https://github.com/oEmanuelFirmino/periodicTable">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=periodicTable&theme=dracula" />
-  </a>
-  <a href="https://github.com/oEmanuelFirmino/image_classifier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=image_classifier&theme=dracula" />
-  </a>
+  <div>
+    <a href="https://github.com/oEmanuelFirmino/interferencia_de_ondas">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=interferencia_de_ondas&theme=dracula" />
+    </a>
+    <a href="https://github.com/oEmanuelFirmino/periodicTable">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=periodicTable&theme=dracula" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/oEmanuelFirmino/image_classifier">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=image_classifier&theme=dracula" />
+    </a>
+    <a href="https://github.com/oEmanuelFirmino/vector-search-with-cos-similarity">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=vector-search-with-cos-similarity&theme=dracula" />
+    </a>
+  </div>
 </div>
 
 ### 📈 GitHub Activity Graph
