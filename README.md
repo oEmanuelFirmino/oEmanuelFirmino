@@ -40,9 +40,9 @@
 <div align="center">
   <div>
     <a href="https://github.com/oEmanuelFirmino/
-Dynamic_Wave_Interference_Simulator">
+interferencia_de_ondas">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=
-Dynamic_Wave_Interference_Simulator&theme=dracula" />
+interferencia_de_ondas&theme=dracula" />
     </a>
     <a href="https://github.com/oEmanuelFirmino/periodicTable">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=periodicTable&theme=dracula" />
