@@ -9,7 +9,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oEmanuelFirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEmanuelFirmino&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEmanuelFirmino&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
 </div>
 
 ### 💻 Tech Stack
@@ -24,26 +24,29 @@
 </div>
 
 ### 🛠 Database Expertise
+
 - MySQL
 - MongoDB
 - SQLite
 - Database Modeling & Design
 
 ### 🌟 Highlights
+
 - 🔭 Fullstack Developer with expertise in TypeScript, Python, and Java
 - 🌱 Experienced with modern frontend frameworks like React
 - 💡 Strong database modeling and management skills
 - 📊 Data visualization with Streamlit
 - 🚀 Always learning and exploring new technologies
 
-###  🏆 Featured Projects & Achievements
+### 🏆 Featured Projects & Achievements
+
 <div align="center">
   <div>
     <a href="https://github.com/oEmanuelFirmino/Dynamic_Wave_Interference_Simulator">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=Dynamic_Wave_Interference_Simulator&theme=dracula" />
     </a>
-    <a href="https://github.com/oEmanuelFirmino/periodicTable">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=periodicTable&theme=dracula" />
+    <a href="https://github.com/oEmanuelFirmino/MultiLayerNeuralNetwork">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=MultiLayerNeuralNetwork&theme=dracula" />
     </a>
   </div>
   <div>
@@ -57,9 +60,11 @@
 </div>
 
 ### 📈 GitHub Activity Graph
+
 [![Emanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oEmanuelFirmino&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🌐 Connect with me
+
 <div>
   <a href="mailto:firmino.emanuel2006@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
