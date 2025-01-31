@@ -85,11 +85,14 @@
     <a href="https://github.com/oEmanuelFirmino/Dynamic_Wave_Interference_Simulator">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=Dynamic_Wave_Interference_Simulator&theme=dracula&hide_border=true&show_icons=true" alt="Wave Interference Simulator"/>
     </a>
+    <p>
+      <code>Python</code> <code>NumPy</code> <code>Matplotlib</code> <code>Physics</code>
+    </p>
     <a href="https://github.com/oEmanuelFirmino/Electromagnetic-Particle-Simulator">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=Electromagnetic-Particle-Simulator&theme=dracula&hide_border=true&show_icons=true" alt="Electromagnetic Particle Simulator"/>
     </a>
     <p>
-      <code>Python</code> <code>NumPy</code> <code>Matplotlib</code> <code>Physics</code>
+      <code>Python</code> <code>NumPy</code> <code>Matplotlib</code> <code>Plotly</code> <code>Streamlit</code> <code>Physics</code>
     </p>
   </details>
 
