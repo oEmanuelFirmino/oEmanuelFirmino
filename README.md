@@ -111,6 +111,12 @@
     <p>
       <code>Python</code> <code>TensorFlow</code> <code>Computer Vision</code>
     </p>
+    <a href="https://github.com/oEmanuelFirmino/OptimizationAlgorithmsVisualization">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=OptimizationAlgorithmsVisualization&theme=dracula&hide_border=true&show_icons=true" alt="Optimization Algorithms Visualization"/>
+    </a>
+    <p>
+      <code>Python</code> <code>Machine Learning</code> <code>Optimization Algorithms</code> <code>Interative Graphs</code>
+    </p>
   </details>
   <details open>
     <summary><b>🔍 Search & Similarity</b></summary>
