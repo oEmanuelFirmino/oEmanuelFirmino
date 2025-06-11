@@ -94,6 +94,12 @@
   <details open>
     <summary><b>🧠 Machine Learning</b></summary>
     <br>
+        <a href="https://github.com/oEmanuelFirmino/neural-network-in-c">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=neural-network-in-c&theme=dracula&hide_border=true&show_icons=true" alt="neural-network-in-c"/>
+    </a>
+    <p>
+      <code>C</code> <code>Neural Networks</code> <code>Deep Learning</code>
+    </p>
     <a href="https://github.com/oEmanuelFirmino/MultiLayerNeuralNetwork">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=MultiLayerNeuralNetwork&theme=dracula&hide_border=true&show_icons=true" alt="Neural Network"/>
     </a>
