@@ -138,12 +138,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-1K+-FF6E96?style=for-the-badge&logo=github&logoColor=white&labelColor=282A36" alt="Total Commits"/>
-  <img src="https://img.shields.io/badge/Projects_Created-20+-FF6E96?style=for-the-badge&logo=github&logoColor=white&labelColor=282A36" alt="Projects Created"/>
-  <img src="https://img.shields.io/badge/Pull_Requests-50+-FF6E96?style=for-the-badge&logo=github&logoColor=white&labelColor=282A36" alt="Pull Requests"/>
-</div>
-
 </div>
 
 ### 🌐 Connect with me
