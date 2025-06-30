@@ -2,21 +2,6 @@
 💻 Tech Stack
 
 <details>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
-<div align="left">
-  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-</div>
-</details>
-<details>
 <summary><b>⚙️ Backend Development</b></summary>
 <br>
 <div align="left">
@@ -64,11 +49,9 @@
 
 ### 🌟 Highlights
 
-- 🔭 Fullstack Developer with expertise in TypeScript, Python, and Java
-- 🌱 Experienced with modern frontend frameworks like React
-- 💡 Strong database modeling and management skills
-- 📊 Data visualization with Streamlit
-- 🚀 Always learning and exploring new technologies
+- 🔭 Backend Developer | TypeScript, Python, Java
+- 🧠 Applied Math, Machine Learning & AI Enthusiast
+- 💡 Strong DB modeling (SQL & NoSQL)
 
 ### 🏆 Featured Projects & Achievements
 
