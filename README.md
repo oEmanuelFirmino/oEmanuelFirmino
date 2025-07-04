@@ -124,20 +124,12 @@
 
 ### 📈 GitHub Analytics & Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oEmanuelFirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEmanuelFirmino&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-</div>
-
-<div align="center">
-
-[![Emanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oEmanuelFirmino&theme=dracula&hide_border=true&radius=8&area=true&custom_title=Contribution%20Timeline&line=FF6E96&point=FF6E96&bg_color=282A36)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
+  <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oEmanuelFirmino&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=282A36&fire=FF6E96&ring=FF6E96&currStreakLabel=FF6E96)
 
 </div>
-
 </div>
 
 ### 🌐 Connect with me
