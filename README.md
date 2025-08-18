@@ -84,11 +84,11 @@
     <p>
       <code>C</code> <code>Neural Networks</code> <code>Deep Learning</code>
     </p>
-    <a href="https://github.com/oEmanuelFirmino/MultiLayerNeuralNetwork">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=MultiLayerNeuralNetwork&theme=dracula&hide_border=true&show_icons=true" alt="Neural Network"/>
+    <a href="https://github.com/oEmanuelFirmino/neuro-sym-model">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=neuro-sym-model&theme=dracula&hide_border=true&show_icons=true" alt="Neural Network"/>
     </a>
     <p>
-      <code>TypeScript</code> <code>Neural Networks</code> <code>Deep Learning</code>
+      <code>Python</code> <code>Neural Networks</code> <code>Symbolic AI</code> <code>NeuroSymbolic AI</code> <code>FOL</code>
     </p>
     <a href="https://github.com/oEmanuelFirmino/image_classifier">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=oEmanuelFirmino&repo=image_classifier&theme=dracula&hide_border=true&show_icons=true" alt="Image Classifier"/>
