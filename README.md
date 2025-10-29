@@ -51,7 +51,7 @@
 ### 🌟 Highlights
 
 - 🔭 Backend Developer | TypeScript, Python, Java
-- 🧠 Applied Math, Machine Learning & AI Enthusiast
+- 🧠 Applied Math, Machine Learning & Artificial Intelligence
 - 💡 Strong DB modeling (SQL & NoSQL)
 
 ### 🏆 Featured Projects & Achievements
